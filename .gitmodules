@@ -1,0 +1,3 @@
+[submodule "ph0wn/write-up"]
+	path = ph0wn/write-up
+	url = https://github.com/ph0wn/writeups.git
