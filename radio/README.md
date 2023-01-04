@@ -2,9 +2,15 @@
 
 ## Description
 
-You can find some radio frequency challenge on [Root-me](https://root-me.org)
+You can find some radio frequency challenge on [Root-me](https://root-me.org) and [HackTheBox](https://app.hackthebox.com)
 
 ## Links
+
+### HackTheBox
+
+[Signals](https://app.hackthebox.com/challenges/signals)
+
+### Root-me
 
 [RF-AM-Transmission](https://www.root-me.org/en/Challenges/Reseau/RF-AM-Transmission)
 
