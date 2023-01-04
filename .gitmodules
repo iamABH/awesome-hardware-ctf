@@ -1,3 +1,6 @@
 [submodule "ph0wn/write-up"]
 	path = ph0wn/write-up
 	url = https://github.com/ph0wn/writeups.git
+[submodule "riscure-hack-me-2017"]
+	path = riscure-hack-me-2017
+	url = https://github.com/Riscure/Rhme-2017
