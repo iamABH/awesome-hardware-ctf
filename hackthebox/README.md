@@ -13,4 +13,5 @@ You can ask for help on the hackthebox discord though for active challenges.
 ## Links
 
 [HackTheBox](https://app.hackthebox.com/)
-[HackTheBox Discord](discord.gg/hackthebox)
+
+[HackTheBox Discord](https://discord.gg/hackthebox)
