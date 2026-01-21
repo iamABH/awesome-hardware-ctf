@@ -4,3 +4,12 @@
 [submodule "riscure-hack-me-2017"]
 	path = riscure-hack-me-2017
 	url = https://github.com/Riscure/Rhme-2017
+[submodule "ble_ctf"]
+	path = ble_ctf
+	url = https://github.com/hackgnar/ble_ctf.git
+[submodule "TeensyPirate"]
+	path = TeensyPirate
+	url = https://github.com/jrsphoto/TeensyPirate
+[submodule "SwordOfSecrets"]
+	path = SwordOfSecrets
+	url = https://github.com/gili-yankovitch/SwordOfSecrets
